@@ -16,7 +16,7 @@ I am currently working as a Full Stack Developer at [Soundverse](https://soundve
 <a href="https://harshal.tech" target="_blank"><img align="center" src="/icons8-website.gif" alt="harshal-ranjhani" height="40" width="40" /></a>
 </p>
  
-<a href="https://app.daily.dev/harshalranjhani"><img src="https://api.daily.dev/devcards/c323feee84b742c19ba9afc617fa00f6.png?r=71v" width="400" alt="Harshal Ranjhani's Dev Card"/></a>
+<a href="https://app.daily.dev/harshalranjhani"><img src="https://github.com/harshalranjhani/harshalranjhani/blob/main/devcard.svg" width="400" alt="Harshal Ranjhani's Dev Card"/></a>
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalranjhani&show_icons=true&locale=en" alt="harshalranjhani" /></p>
