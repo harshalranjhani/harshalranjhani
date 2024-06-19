@@ -4,7 +4,7 @@
 
 I'm a passionate developer and tech enthusiast with a love for creating innovative solutions and exploring the rhythm of code through music. When I'm not coding, you can find me exploring new playlists.
 
-- 📝 I'm currently a Technical Writer at [codeparrot.ai](https://codeparrot.ai).
+- 📝 I'm currently a Technical Writer at [codeparrot.ai](https://codeparrot.ai) and a Backend Developer at [jiibs](https://jiibs.com).
 - 🌱 I’m currently learning Golang.
 - 💻 I've worked as a Full Stack Developer at [soundverse](https://soundverse.ai).
 - 💬 Ask me about Technology, Music, or anything you want to talk about.
