@@ -16,8 +16,8 @@ I'm a passionate developer and tech enthusiast with a love for creating innovati
 ## 🛠 Skills
 
 - Languages: TypeScript, JavaScript, Golang, Python, Java, C, C++.
-- Frameworks: React, Node.js, Express.js, Next.js, Nest.js, Redux, Django, React Native, Appwrite.
-- Tools: Docker, GCP, Git, Vercel, Netlify, Github Actions.
+- Frameworks: React, Node.js, Express.js, Next.js, Nest.js, Redux, Django, React Native, Appwrite, FastAPI.
+- Tools: Docker, GCP, Git, Vercel, Netlify, Github Actions, LLMs.
 - Databases: MongoDB, MySQL, PostgreSQL.
 
 ## 📊 GitHub Stats          
