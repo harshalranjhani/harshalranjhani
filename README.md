@@ -10,7 +10,7 @@ I'm a passionate developer and tech enthusiast with a love for creating innovati
 - 💬 Ask me about Technology, Music, or anything you want to talk about.
 - 📫 How to reach me: [ranjhaniharshal@gmail.com](mailto:ranjhaniharshal@gmail.com)
 - ⚡ Fun fact: I believe in the power of late-night coding sessions and an endless supply of coffee.
-- 🔗 Connect with me [here](https://harshalranjhani.in/card)
+- 🔗 Connect with me [here](https://harshalranjhani.in/)
 
 
 ## 🛠 Skills
