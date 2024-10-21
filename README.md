@@ -28,6 +28,8 @@ I'm a passionate developer and tech enthusiast with a love for creating innovati
 
 [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshalranjhani&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![An image of @harshalranjhani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshalranjhani)](https://holopin.io/@harshalranjhani)
+
 ## 🔗 Connect with me
 
 - LinkedIn: [Harshal Ranjhani](https://www.linkedin.com/in/harshal-ranjhani)
