@@ -8,7 +8,7 @@ I'm a passionate developer and tech enthusiast with a love for creating innovati
 - 🌱 I’m currently learning Golang.
 - 💻 I've worked as a Full Stack Developer at [soundverse](https://soundverse.ai) and a Backend Developer at [jiibs](https://jiibs.com).
 - 💬 Ask me about Technology, Music, or anything you want to talk about.
-- 📫 How to reach me: [ranjhaniharshal@gmail.com](mailto:ranjhaniharshal@gmail.com)
+- 📫 How to reach me: [mail@harshalranjhani.in](mailto:mail@harshalranjhani.in)
 - ⚡ Fun fact: I believe in the power of late-night coding sessions and an endless supply of coffee.
 - 🔗 Connect with me [here](https://harshalranjhani.in/)
 
