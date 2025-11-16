@@ -4,9 +4,9 @@
 
 I'm a passionate developer and tech enthusiast with a love for creating innovative solutions and exploring the rhythm of code through music. When I'm not coding, you can find me exploring new playlists.
 
-- 📝 I'm currently a Technical Writer at [codeparrot.ai](https://codeparrot.ai).
-- 🌱 I’m currently learning Golang.
-- 💻 I've worked as a Full Stack Developer at [soundverse](https://soundverse.ai) and a Backend Developer at [jiibs](https://jiibs.com).
+- 📝 I'm currently an Associate Software Engineer at [rtCamp](https://rtcamp.com).
+- 🌱 I’m currently exploring WordPress and Golang.
+- 💻 I've worked as a Software Intern at [S20.AI](https://s20.ai), Full Stack Developer at [soundverse](https://soundverse.ai) and a Backend Developer at [jiibs](https://jiibs.com).
 - 💬 Ask me about Technology, Music, or anything you want to talk about.
 - 📫 How to reach me: [mail@harshalranjhani.in](mailto:mail@harshalranjhani.in)
 - ⚡ Fun fact: I believe in the power of late-night coding sessions and an endless supply of coffee.
