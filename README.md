@@ -20,9 +20,6 @@ I'm a passionate developer and tech enthusiast with a love for creating innovati
 - Tools: Docker, GCP, Git, Vercel, Netlify, Github Actions, LLMs.
 - Databases: MongoDB, MySQL, PostgreSQL.
 
-## 📊 GitHub Stats          
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshalranjhani&show_icons=true&theme=radical)
-
 
 ## 📈 GitHub Contribution Graph
 
