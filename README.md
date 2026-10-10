@@ -5,7 +5,7 @@
 I'm a passionate developer and tech enthusiast with a love for creating innovative solutions and exploring the rhythm of code through music. When I'm not coding, you can find me exploring new playlists.
 
 - 📝 I'm currently a Software Development Engineer at [Unravel](https://unravel.tech).
-- 🌱 I’m currently exploring WordPress and Golang.
+- 🌱 I’m currently exploring AI Agents and Harnesses and building systems that scale.
 - 💻 I've worked as an Associate Software Engineer at [rtCamp](https://rtcamp.com), Software Intern at [S20.AI](https://s20.ai), Full Stack Developer at [soundverse](https://soundverse.ai) and a Backend Developer at [jiibs](https://jiibs.com).
 - 💬 Ask me about Technology, Music, or anything you want to talk about.
 - 📫 How to reach me: [mail@harshalranjhani.in](mailto:mail@harshalranjhani.in)
